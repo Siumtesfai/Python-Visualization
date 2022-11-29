@@ -3,7 +3,7 @@
 """
 Created on Sat Dec 19 17:48:07 2020
 
-@author: gsj1
+@author: 
 """
 from netCDF4 import Dataset
 import matplotlib.pyplot as plt
